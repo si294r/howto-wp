@@ -28,7 +28,7 @@
 
 5. Install Certificate Windows
 	- Run by type "cert", Control Panel -> "Kelola Setifikat Pengguna"
-	- Trusted Root ... -> Certificates, right click -> All Task -> Import
+	- Trusted Root ... -> Certificates, right click -> All Task -> Import; select `lebihcerdas.crt`
     <br />
     <img width="348" alt="Install Certificate Windows" src="https://github.com/si294r/howto-wp/assets/10229458/c51f3f3b-42be-4eec-b5ec-9690a6408ea9">
     <br /><br />
