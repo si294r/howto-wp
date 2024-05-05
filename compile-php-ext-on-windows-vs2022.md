@@ -1,11 +1,15 @@
 
 ## Compile PHP Extension on Windows VS2022
 
-### EXPERIMENTAL ONLY !!!
+> [!NOTE]
+> PHP Development Package doesn't provide for VS2022, for this step we use package for VS2019
 
-### NOTE: PHP Development Package doesn't provide for VS2022, for this step we use package for VS2019
-	
-### Old Reference - https://damjan.cvetko.org/blog/2021-09-01-php-compiling-ext-update/
+> [!TIP]
+> Old Reference - https://damjan.cvetko.org/blog/2021-09-01-php-compiling-ext-update/
+
+> [!WARNING]
+> EXPERIMENTAL ONLY !!! <br />
+> The compilation results here are not used in local development
 
 1. Install Visual Studio Community 2022: https://visualstudio.microsoft.com/downloads/
 ![image](https://github.com/si294r/howto-wp/assets/10229458/07dc9377-dc8e-46e5-a514-2392414091c5)
