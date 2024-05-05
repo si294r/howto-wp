@@ -1,9 +1,12 @@
 
 ## Compile PHP on Windows
 
-### EXPERIMENTAL ONLY !!!
+> [!TIP]
+> Old Reference - https://medium.com/@erinus/how-to-build-php-on-windows-a7ad0a87862a
 
-### Old Reference - https://medium.com/@erinus/how-to-build-php-on-windows-a7ad0a87862a
+> [!WARNING]
+> EXPERIMENTAL ONLY !!! <br />
+> The compilation results here are not used in local development 
 
 1. Install Visual Studio Community 2019 from microsoft store: https://apps.microsoft.com/search?query=Visual+Studio+Community+2019&hl=en-us&gl=US
 ![image](https://github.com/si294r/howto-wp/assets/10229458/07dc9377-dc8e-46e5-a514-2392414091c5)
