@@ -1,7 +1,8 @@
 
 ## Setup SSL multidomain Local Development
 
-### Note: OpenStreetMap use Leaflet js library that run only on HTTPS
+> [!NOTE]
+> - OpenStreetMap use Leaflet js library that run only on HTTPS
 
 1. Use Online Generator, example : https://certificatetools.com/
 	- Add Common Name : `lebihcerdas.local`
