@@ -1,4 +1,4 @@
-## Grafana
+## Monitoring WordPress with Grafana
 
 > [!TIP]
 > - https://grafana.com/docs/grafana-cloud/monitor-applications/application-observability/setup/quickstart/php/
