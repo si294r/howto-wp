@@ -28,5 +28,5 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: vendor\n"
 ```
 
-5. Add minimum english-US translation, necessary for presentations with foreign people (investors)
+4. Add minimum english-US translation, necessary for presentations with foreign people (investors)
 
